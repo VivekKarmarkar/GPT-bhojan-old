@@ -1,0 +1,16 @@
+{
+  "name": "GPT Bhojan",
+  "short_name": "Bhojan",
+  "description": "Strava for Food — AI-powered food tracking",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#FC4C02",
+  "background_color": "#0F0F1A",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
