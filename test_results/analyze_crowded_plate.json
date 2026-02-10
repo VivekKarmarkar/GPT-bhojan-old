@@ -1,0 +1,249 @@
+{
+    "analysis": {
+        "description": "The image features a lavish spread of grilled meats, seafood, fresh fruits, roasted vegetables, and accompaniments like fries and rolls. It is presented on a wooden table, accompanied by a glass of red wine and some sauces.",
+        "items": "- Grilled meats (chicken/pork)\n   - Grilled shrimp\n   - Roasted vegetables (mushrooms, carrots)\n   - Grilled pineapple\n   - French fries\n   - Bread rolls\n   - Fresh fruits (grapes, pineapple)\n   - Sauces\n   - Red wine",
+        "calories": "- Grilled meats: 400 kcal\n   - Grilled shrimp: 150 kcal\n   - Roasted vegetables: 100 kcal\n   - Grilled pineapple: 50 kcal\n   - French fries: 350 kcal\n   - Bread rolls: 200 kcal\n   - Fresh fruits: 100 kcal\n   - Sauces: 100 kcal\n   - Red wine: 125 kcal",
+        "total_calories": "1575 kcal",
+        "health_score": "6.5/10",
+        "rationale": "The meal provides a balance of protein and vitamins from meats and fruits, but also includes high-calorie items like fries and bread, along with alcohol and sauces, which can increase calorie intake and decrease overall healthiness.",
+        "macronutrient_estimate": "- Protein: 80g\n   - Fat: 60g\n   - Carbs: 150g",
+        "eat_frequency": "Occasional treat",
+        "ideal_comparison": "Compared to a typical healthy meal, this spread is richer in calories and fats, mainly due to the fries, bread, and sauce. Fresh fruits and grilled items are beneficial but are balanced against less healthy variations.",
+        "mood_impact": "This meal may provide short-term satiety and energy boost due to carbs, but could lead to an energy crash due to high fat content.",
+        "satiety_score": "8/10",
+        "bloat_score": "5/10",
+        "tasty_score": "9/10",
+        "addiction_score": "7/10",
+        "summary": "This meal has an estimated total of 1575 calories with a health score of 6.5. It combines a hearty amount of protein and vitamins with high-calorie indulgences, making it an enjoyable yet occasional treat."
+    },
+    "detections": {
+        "detections": [
+            {
+                "bbox": [
+                    550.0,
+                    428.0,
+                    749.0,
+                    696.0
+                ],
+                "label": "french fries",
+                "confidence": 0.6787489652633667
+            },
+            {
+                "bbox": [
+                    1151.0,
+                    337.0,
+                    1277.0,
+                    456.0
+                ],
+                "label": "red wine",
+                "confidence": 0.6096937656402588
+            },
+            {
+                "bbox": [
+                    62.0,
+                    190.0,
+                    362.0,
+                    488.0
+                ],
+                "label": "grilled meats",
+                "confidence": 0.6200479865074158
+            },
+            {
+                "bbox": [
+                    229.0,
+                    397.0,
+                    316.0,
+                    491.0
+                ],
+                "label": "carrots",
+                "confidence": 0.5599038004875183
+            },
+            {
+                "bbox": [
+                    379.0,
+                    558.0,
+                    542.0,
+                    774.0
+                ],
+                "label": "bread rolls",
+                "confidence": 0.49929681420326233
+            },
+            {
+                "bbox": [
+                    293.0,
+                    52.0,
+                    387.0,
+                    149.0
+                ],
+                "label": "fresh fruits",
+                "confidence": 0.48737025260925293
+            },
+            {
+                "bbox": [
+                    486.0,
+                    1.0,
+                    657.0,
+                    222.0
+                ],
+                "label": "grapes",
+                "confidence": 0.5197644829750061
+            },
+            {
+                "bbox": [
+                    439.0,
+                    204.0,
+                    526.0,
+                    291.0
+                ],
+                "label": "sauces",
+                "confidence": 0.4784461557865143
+            },
+            {
+                "bbox": [
+                    635.0,
+                    0.0,
+                    852.0,
+                    144.0
+                ],
+                "label": "pineapple",
+                "confidence": 0.3662368953227997
+            },
+            {
+                "bbox": [
+                    319.0,
+                    390.0,
+                    416.0,
+                    514.0
+                ],
+                "label": "##d pineapple",
+                "confidence": 0.41881468892097473
+            },
+            {
+                "bbox": [
+                    117.0,
+                    334.0,
+                    192.0,
+                    437.0
+                ],
+                "label": "carrots",
+                "confidence": 0.33331239223480225
+            },
+            {
+                "bbox": [
+                    171.0,
+                    194.0,
+                    315.0,
+                    330.0
+                ],
+                "label": "shrimp",
+                "confidence": 0.3810471296310425
+            },
+            {
+                "bbox": [
+                    486.0,
+                    2.0,
+                    657.0,
+                    222.0
+                ],
+                "label": "vegetables",
+                "confidence": 0.27522358298301697
+            },
+            {
+                "bbox": [
+                    63.0,
+                    191.0,
+                    361.0,
+                    488.0
+                ],
+                "label": "chicken / pork",
+                "confidence": 0.40503665804862976
+            },
+            {
+                "bbox": [
+                    424.0,
+                    624.0,
+                    513.0,
+                    716.0
+                ],
+                "label": "bread rolls",
+                "confidence": 0.2579648494720459
+            },
+            {
+                "bbox": [
+                    322.0,
+                    366.0,
+                    396.0,
+                    429.0
+                ],
+                "label": "carrots",
+                "confidence": 0.3231360614299774
+            },
+            {
+                "bbox": [
+                    634.0,
+                    1.0,
+                    852.0,
+                    143.0
+                ],
+                "label": "pineapple",
+                "confidence": 0.2661934792995453
+            },
+            {
+                "bbox": [
+                    252.0,
+                    459.0,
+                    335.0,
+                    539.0
+                ],
+                "label": "mushrooms",
+                "confidence": 0.33392736315727234
+            },
+            {
+                "bbox": [
+                    319.0,
+                    390.0,
+                    416.0,
+                    514.0
+                ],
+                "label": "pineapple",
+                "confidence": 0.38815104961395264
+            },
+            {
+                "bbox": [
+                    63.0,
+                    193.0,
+                    361.0,
+                    488.0
+                ],
+                "label": "shrimp",
+                "confidence": 0.290380597114563
+            },
+            {
+                "bbox": [
+                    77.0,
+                    278.0,
+                    193.0,
+                    345.0
+                ],
+                "label": "shrimp",
+                "confidence": 0.2630518674850464
+            },
+            {
+                "bbox": [
+                    397.0,
+                    325.0,
+                    503.0,
+                    451.0
+                ],
+                "label": "mushrooms",
+                "confidence": 0.3757159411907196
+            }
+        ],
+        "result_image_url": "https://replicate.delivery/xezq/0xVdJLmqnlqTKxebW5UE6Y9fNk9Aaza3YwU8qWlWKm51e9LsA/result.png"
+    },
+    "timing": {
+        "gpt_vision_s": 23.35,
+        "detection_s": 1.87,
+        "total_s": 25.22
+    }
+}

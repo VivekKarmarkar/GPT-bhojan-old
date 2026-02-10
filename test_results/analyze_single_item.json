@@ -1,0 +1,189 @@
+{
+    "analysis": {
+        "description": "This plate features a piece of grilled salmon served with a fresh side salad, including mixed greens, tomatoes, onions, cucumber, and a lemon wedge for garnish.",
+        "items": "- Grilled salmon\n   - Mixed green salad (lettuce, spinach)\n   - Tomatoes\n   - Red onions\n   - Cucumber\n   - Lemon wedge",
+        "calories": "- Grilled salmon (200g): ~400 calories\n   - Mixed salad (150g): ~50 calories\n   - Tomatoes (50g): ~10 calories\n   - Red onions (20g): ~8 calories\n   - Cucumber (20g): ~3 calories\n   - Lemon wedge: ~2 calories",
+        "total_calories": "~473 calories",
+        "health_score": "9/10",
+        "rationale": "The meal is rich in proteins and omega-3 fatty acids from the salmon. The salad adds fiber, vitamins, and minerals, complementing the balance of macronutrients. It's low in carbohydrates and saturated fats, making it a healthy choice.",
+        "macronutrient_estimate": "- Protein: ~40g\n   - Fat: ~25g\n   - Carbs: ~15g",
+        "eat_frequency": "Can eat daily",
+        "ideal_comparison": "This meal fits well with a typical healthy benchmark meal, which includes a lean protein source, vegetables, and healthy fats.",
+        "mood_impact": "Likely to provide sustained energy and satiety without causing a crash, thanks to the protein and healthy fats.",
+        "satiety_score": "8/10",
+        "bloat_score": "2/10 (low likelihood of causing bloating)",
+        "tasty_score": "8/10",
+        "addiction_score": "3/10 (low likelihood of triggering addictive eating)",
+        "summary": "The total calorie estimate is approximately 473 calories with a health score of 9/10. This meal combines nutritious elements making it suitable for regular consumption, offering a balance of essential nutrients and promoting overall well-being."
+    },
+    "detections": {
+        "detections": [
+            {
+                "bbox": [
+                    782.0,
+                    324.0,
+                    1115.0,
+                    490.0
+                ],
+                "label": "lemon wedge",
+                "confidence": 0.6974396109580994
+            },
+            {
+                "bbox": [
+                    216.0,
+                    258.0,
+                    461.0,
+                    444.0
+                ],
+                "label": "tomatoes",
+                "confidence": 0.5706551671028137
+            },
+            {
+                "bbox": [
+                    3.0,
+                    129.0,
+                    1142.0,
+                    846.0
+                ],
+                "label": "mixed green salad",
+                "confidence": 0.4508010745048523
+            },
+            {
+                "bbox": [
+                    2.0,
+                    406.0,
+                    506.0,
+                    843.0
+                ],
+                "label": "spinach",
+                "confidence": 0.3488577902317047
+            },
+            {
+                "bbox": [
+                    244.0,
+                    417.0,
+                    1249.0,
+                    912.0
+                ],
+                "label": "grilled salmon",
+                "confidence": 0.6312183141708374
+            },
+            {
+                "bbox": [
+                    651.0,
+                    146.0,
+                    819.0,
+                    382.0
+                ],
+                "label": "tomatoes",
+                "confidence": 0.3795519173145294
+            },
+            {
+                "bbox": [
+                    793.0,
+                    230.0,
+                    1145.0,
+                    408.0
+                ],
+                "label": "red onions",
+                "confidence": 0.5663294196128845
+            },
+            {
+                "bbox": [
+                    2.0,
+                    406.0,
+                    506.0,
+                    844.0
+                ],
+                "label": "lettuce",
+                "confidence": 0.26895397901535034
+            },
+            {
+                "bbox": [
+                    2.0,
+                    410.0,
+                    249.0,
+                    836.0
+                ],
+                "label": "spinach",
+                "confidence": 0.2622939944267273
+            },
+            {
+                "bbox": [
+                    170.0,
+                    433.0,
+                    320.0,
+                    559.0
+                ],
+                "label": "cucumber",
+                "confidence": 0.32099592685699463
+            },
+            {
+                "bbox": [
+                    2.0,
+                    408.0,
+                    308.0,
+                    840.0
+                ],
+                "label": "spinach",
+                "confidence": 0.26041319966316223
+            },
+            {
+                "bbox": [
+                    483.0,
+                    297.0,
+                    626.0,
+                    391.0
+                ],
+                "label": "tomatoes",
+                "confidence": 0.2808606028556824
+            },
+            {
+                "bbox": [
+                    2.0,
+                    130.0,
+                    1134.0,
+                    844.0
+                ],
+                "label": "lettuce",
+                "confidence": 0.2867051661014557
+            },
+            {
+                "bbox": [
+                    170.0,
+                    433.0,
+                    492.0,
+                    565.0
+                ],
+                "label": "cucumber",
+                "confidence": 0.36722978949546814
+            },
+            {
+                "bbox": [
+                    2.0,
+                    407.0,
+                    356.0,
+                    844.0
+                ],
+                "label": "lettuce",
+                "confidence": 0.2832317054271698
+            },
+            {
+                "bbox": [
+                    6.0,
+                    129.0,
+                    1247.0,
+                    908.0
+                ],
+                "label": "grilled salmon",
+                "confidence": 0.26359254121780396
+            }
+        ],
+        "result_image_url": "https://replicate.delivery/xezq/gJPujbewunwdWqwZZIegoD4PKeeKtpJWsJGUHZIlaNlt47XYB/result.png"
+    },
+    "timing": {
+        "gpt_vision_s": 24.45,
+        "detection_s": 1.55,
+        "total_s": 26.0
+    }
+}
